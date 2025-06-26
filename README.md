@@ -1,11 +1,11 @@
 ### 👋 Olá, eu sou o Gustavo Diniz!
-
+<br>
 <p>
   - 🔭 Cursando Análise e Desenvolvimento de Sistemas (ADS)<br>
   - 🌱 Estudando e desenvolvendo projetos em <strong>Java, Python e TypeScript</strong>.
 </p>
+<br>
 
-##
 
 <div align="center" style="display: flex; justify-content: space-between;">
   <div width="49%">
@@ -17,17 +17,17 @@
   ##
   
 ### ⚙️ Tecnologias e Ferramentas
-
+<br>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,typescript,spring,html,css,git,mysql" />
+    <img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,typescript,git,spring,linux" />
   </a>
 </p>
 
 ##
 
 ### 📫 Conecte-se Comigo
-
+<br>
 <p align="left">
 <a href="https://www.linkedin.com/in/gustavo-diniz-30397b29a/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
