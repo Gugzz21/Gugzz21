@@ -11,6 +11,10 @@
   <div width="49%">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gtvdiniz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub do Gustavo"/>
     <br>
+     <br>
+     <br>
+     <br>
+     <br>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtvdiniz&layout=donut&langs_count=8&theme=tokyonight" alt="Linguagens mais usadas do Gustavo"/>  <img height="330em" src="https://media.tenor.com/bslbhJjdX4EAAAAm/shocked-surprised-emoticon-emoticon.webp"
   </div>
 </div>
