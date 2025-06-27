@@ -10,13 +10,14 @@
 <div align="center" style="display: flex; justify-content: space-between;">
   <div width="49%">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gtvdiniz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub do Gustavo"/>
+    <br>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtvdiniz&layout=donut&langs_count=8&theme=tokyonight" alt="Linguagens mais usadas do Gustavo"/>  <img height="330em" src="https://media.tenor.com/bslbhJjdX4EAAAAm/shocked-surprised-emoticon-emoticon.webp"
   </div>
 </div>
 
   ##
   
-### ⚙️ Tecnologias e Ferramentas
+
 <br>
 <p align="left">
   <a href="https://skillicons.dev">
@@ -26,7 +27,6 @@
 
 ##
 
-### 📫 Conecte-se Comigo
 <br>
 <p align="left">
 <a href="https://www.linkedin.com/in/gustavo-diniz-30397b29a/" target="_blank">
