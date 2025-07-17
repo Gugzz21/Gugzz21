@@ -22,7 +22,7 @@
 </a>
 </p>
 <br> 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gtvdiniz&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
