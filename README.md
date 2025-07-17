@@ -29,6 +29,13 @@
     media="(prefers-color-scheme: dracula)"/>
   <img src="https://github-readme-stats.vercel.app/api?username=gtvdiniz&show_icons=true" />
 </picture>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gtvdiniz&layout=compact"
+    media="(prefers-color-scheme: dracula)"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtvdiniz&layout=compact" />
+</picture>
+
 
 
 
