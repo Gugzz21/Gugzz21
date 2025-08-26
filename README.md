@@ -23,12 +23,12 @@
 </p>
 <br> 
 
-<picture>
+
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Gugzz21&show_icons=true&theme=dracula"
     media="(prefers-color-scheme: dracula)"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Gugzz21&show_icons=true" />
-</picture>
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Gugzz21&layout=compact"
