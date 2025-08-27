@@ -42,13 +42,13 @@
 <picture>
   <source srcset="https://github-readme-stats.vercel.app/api?username=Gugzz21&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
   <source srcset="https://github-readme-stats.vercel.app/api?username=Gugzz21&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Gugzz21&show_icons=true&theme=highcontrast" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gugzz21&show_icons=true&theme=tokyonight" />
 </picture>
 
 <picture>
   <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Gugzz21&layout=compact&theme=dark" media="(prefers-color-scheme: dark)" />
   <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Gugzz21&layout=compact&theme=dark" media="(prefers-color-scheme: dark)" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gugzz21&layout=compact&theme=highcontrast" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gugzz21&layout=compact&theme=tokyonight" />
 </picture>
 
 
