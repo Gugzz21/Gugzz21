@@ -4,13 +4,12 @@
 
 ### Sobre mim
 
-### 💻 Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas (ADS)**, onde mergulho de cabeça no mundo da tecnologia e do desenvolvimento de software.
+## 💻 Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas (ADS)**, onde mergulho de cabeça no mundo da tecnologia e do desenvolvimento de software.
 
-### 🚀 Minha paixão é transformar ideias em código, e por isso, dedico meu tempo para aprimorar minhas habilidades e criar projetos inovadores. Sou um estudante constante, sempre em busca de novos desafios.
+## 🚀 Minha paixão é transformar ideias em código, e por isso, dedico meu tempo para aprimorar minhas habilidades e criar projetos inovadores. Sou um estudante constante, sempre em busca de novos desafios.
 
-### 🌱 No momento, meus estudos e projetos estão focados nas seguintes tecnologias:
+## 🌱 No momento, meus estudos e projetos estão focados nas seguintes tecnologias:
 
-<br>
 <br>
 
 <p align="left">
