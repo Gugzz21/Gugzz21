@@ -10,6 +10,9 @@
 
 ### 🌱 No momento, meus estudos e projetos estão focados nas seguintes tecnologias:
 
+<br>
+<br>
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,typescript,git,spring,linux,aws" />
