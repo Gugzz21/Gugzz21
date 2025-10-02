@@ -28,7 +28,10 @@
 <a href="https://www.linkedin.com/in/gustavo-diniz-30397b29a/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-  <p>gustavodinizz966@outlook.com</p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gmail"/> 
+### gustavodinizz966@gmail.com
+  </a>
 </p>
 
 ---
