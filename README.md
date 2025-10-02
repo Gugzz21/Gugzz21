@@ -29,11 +29,10 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
   <br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gmail"/> 
-    <p> gustavodinizz966@gmail.com </p>
-     
-  </a>
+<a href="mailto:gustavodinizz966@gmail.com" style="text-decoration: none; color: inherit;">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail Icon" style="vertical-align: middle; margin-right: 8px;"/>
+  gustavodinizz966@gmail.com
+</a>
 </p>
 
 ---
