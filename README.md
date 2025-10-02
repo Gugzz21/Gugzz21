@@ -29,9 +29,8 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
   <br>
-<a href="mailto:gustavodinizz966@gmail.com" style="text-decoration: none; color: inherit;">
-  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail Icon" style="vertical-align: middle; margin-right: 8px;"/>
-  gustavodinizz966@gmail.com
+<a href="mailto:gustavodinizz966@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 </p>
 
