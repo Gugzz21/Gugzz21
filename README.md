@@ -22,17 +22,8 @@
 ## 🌐 Connect With Me
 
 * Feel free to follow and connect with me on social media to keep up with my work and updates!
-
-<p align="left">
-<a href="https://www.linkedin.com/in/gustavo-diniz-30397b29a/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-  <br>
-<a href="mailto:gustavodinizz966@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-</p>
-**📧 Email:** gustavodinizz966@gmail.com
+<br>
+##📧 Email: gustavodinizz966@outlook.com
 
 ---
 
