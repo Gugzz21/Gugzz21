@@ -22,8 +22,8 @@
 ## 🌐 Connect With Me
 
 * Feel free to follow and connect with me on social media to keep up with my work and updates!
-<br>📧 Email: gustavodinizz966@outlook.com <br>
-📧 Email: gustavodinizz966@gmail.com
+<br>📧 Email: gustavodinizz966@outlook.com 
+<br>📧 Email2: gustavodinizz966@gmail.com
 
 ---
 
