@@ -1,57 +1,54 @@
-# 👋 Olá, eu sou o Gustavo Diniz!
+# 👋 Hello, I'm Gustavo Diniz!
 
 ---
 
-### Sobre mim
+## 👨‍💻 About Me
 
-#### 💻 Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas (ADS)**, onde mergulho de cabeça no mundo da tecnologia e do desenvolvimento de software.
+* I'm currently pursuing an **Associate's Degree in Systems Analysis and Development**, fully immersed in the world of technology and software development.
+* My passion is turning **ideas into code**, which drives me to constantly refine my skills and create innovative projects. I'm a dedicated learner, always seeking new challenges and opportunities to grow.
 
-#### 🚀 Minha paixão é transformar ideias em código, e por isso, dedico meu tempo para aprimorar minhas habilidades e criar projetos inovadores. Sou um estudante constante, sempre em busca de novos desafios.
-
-#### 🌱 No momento, meus estudos e projetos estão focados nas seguintes tecnologias:
+### 💡 Technologies I'm Focused On:
 
 <br>
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,typescript,git,spring,linux,aws" />
-  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,typescript,git,spring,linux,aws" />
+  </a>
 </p>
 
 ---
 
-### Conecte-se comigo
+## 🌐 Connect With Me
 
-#### 🔗 Fique à vontade para me seguir e se conectar comigo nas redes sociais para acompanhar meu trabalho e minhas novidades!
+* Feel free to follow and connect with me on social media to keep up with my work and updates!
 
 <p align="left">
 <a href="https://www.linkedin.com/in/gustavo-diniz-30397b29a/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-  <br>
+  <br>
 <a href="mailto:gustavodinizz966@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 </p>
 
 ---
 
-### Estatísticas do meu GitHub
+## 📊 My GitHub Stats
 
-#### 📊 Veja um resumo da minha atividade no GitHub.
-
+* Here's a snapshot of my activity on GitHub.
 
 <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=Gugzz21&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats.vercel.app/api?username=Gugzz21&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Gugzz21&show_icons=true&theme=dark" />
+  <source srcset="https://github-readme-stats.vercel.app/api?username=Gugzz21&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats.vercel.app/api?username=Gugzz21&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gugzz21&show_icons=true&theme=dark" />
 </picture>
 
 <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Gugzz21&layout=compact&theme=dark" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Gugzz21&layout=compact&theme=dark" media="(prefers-color-scheme: dark)" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gugzz21&layout=compact&theme=dark" />
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Gugzz21&layout=compact&theme=dark" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Gugzz21&layout=compact&theme=dark" media="(prefers-color-scheme: dark)" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gugzz21&layout=compact&theme=dark" />
 </picture>
-
 
 ---
