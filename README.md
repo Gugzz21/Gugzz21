@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Gustavo Diniz!
+ # 👋 Hello, I'm Gustavo Diniz!
 
 ---
 
@@ -13,7 +13,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,typescript,git,spring,linux,aws"/>
+    <img src="https://skillicons.dev/icons?i= java, python, javascript, typescript, git, spring, linux, angular "/>
   </a>
 </p>
 
