@@ -1,4 +1,4 @@
- # 👋 Hello, I'm Gustavo Diniz!
+# 👋 Hello, I'm Gustavo Diniz!
 
 ---
 
@@ -13,10 +13,10 @@
 
 <p align="left">
  <div>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,git,spring,linux,angular"/>
-  </a>
-  <div>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,git,spring,linux,angular"/>
+  </a>
+ <div>
 </p>
 
 ---
@@ -32,13 +32,13 @@
 ## 📊 My GitHub Stats
 
 * Here's a snapshot of my activity on GitHub.
-* 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Gugzz21&theme=dark)](https://git.io/streak-stats)
  
 <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Gugzz21&layout=compact&theme=dark" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Gugzz21&layout=compact&theme=dark" media="(prefers-color-scheme: dark)" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gugzz21&layout=compact&theme=dark" />
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Gugzz21&layout=compact&theme=dark" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Gugzz21&layout=compact&theme=dark" media="(prefers-color-scheme: dark)" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gugzz21&layout=compact&theme=dark" />
 </picture>
 
 ---
