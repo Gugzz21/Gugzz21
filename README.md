@@ -36,16 +36,13 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Gugzz21&show_icons=true&theme=dark" alt="Gugzz21 GitHub Stats" />
-  </a>
+   
 </div>
 
 <div align="center">
   <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Gugzz21&layout=compact&theme=dark" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Gugzz21&layout=compact&theme=dark" media="(prefers-color-scheme: dark)" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gugzz21&layout=compact&theme=dark" />
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Gugzz21&layout=pie&theme=dark" media="(prefers-color-scheme: dark)" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gugzz21&layout=pie&theme=dark" />
   </picture>
 </div>
 
