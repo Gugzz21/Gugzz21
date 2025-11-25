@@ -32,6 +32,9 @@
 ## 📊 My GitHub Stats
 
 * Here's a snapshot of my activity on GitHub.
+  <picture>
+  <source srcset="https://streak-stats.demolab.com/?user=Gugzz21&theme=dark"/>
+  </picture> 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Gugzz21&theme=dark)](https://git.io/streak-stats)
 
