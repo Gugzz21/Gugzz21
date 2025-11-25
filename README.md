@@ -12,9 +12,11 @@
 <br>
 
 <p align="left">
+ <div>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,git,spring,linux,angular"/>
   </a>
+  <div>
 </p>
 
 ---
