@@ -32,15 +32,6 @@
 ## 📊 My GitHub Stats
 
 * Here's a snapshot of my activity on GitHub.
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Gugzz21&show_icons=true&theme=dark" alt="Gugzz21 GitHub Stats" />
-  </a>
-</div>
-
 <br>
 
 <div align="center">
