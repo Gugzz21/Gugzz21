@@ -3,7 +3,7 @@
   # 👋 Olá, eu sou o Gustavo Diniz!
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=37B6FF&center=true&vCenter=true&width=435&lines=Back-end+Developer;Java+%26+Spring+Boot+Enthusiast;ADS+Student;Linux+User" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=37B6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Java+%26+Spring+Boot;Angular+%26+React+Native;TS+%26+JS+Expert;Linux+User" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -14,15 +14,16 @@
   <a href="mailto:gustavodinizz966@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  </div>
+
+</div>
 
 ---
 
 ### 👨‍💻 Sobre Mim
 
 🔹 Atualmente cursando **Análise e Desenvolvimento de Sistemas (ADS)**.<br>
-🔹 Apaixonado por transformar **ideias em código** e resolver problemas complexos.<br>
-🔹 Foco principal em **Java, Spring Boot** e ecosistema **Linux**.<br>
+🔹 Desenvolvedor **Full Stack** com foco em criar soluções completas, do banco de dados ao mobile.<br>
+🔹 Apaixonado por **Java** no backend e interfaces modernas com **Angular** e **React Native**.<br>
 🔹 Sempre buscando novos desafios e aprendizado contínuo.
 
 ---
@@ -33,7 +34,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,python,hibernate&theme=dark" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=angular,react,ts,js,html,css&theme=dark" />
     <br/>
     <img src="https://skillicons.dev/icons?i=linux,git,mysql,postgres,aws&theme=dark" />
   </a>
