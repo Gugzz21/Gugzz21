@@ -1,56 +1,61 @@
-# 👋 Hello, I'm Gustavo Diniz!
+<div align="center">
+
+  # 👋 Olá, eu sou o Gustavo Diniz!
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=37B6FF&center=true&vCenter=true&width=435&lines=Back-end+Developer;Java+%26+Spring+Boot+Enthusiast;ADS+Student;Linux+User" alt="Typing SVG" />
+  </a>
+
+  <br/>
+
+  <a href="mailto:gustavodinizz966@outlook.com">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"/>
+  </a>
+  <a href="mailto:gustavodinizz966@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  </div>
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 Sobre Mim
 
-* I'm currently pursuing an **Associate's Degree in Systems Analysis and Development**, fully immersed in the world of technology and software development.
-* My passion is turning **ideas into code**, which drives me to constantly refine my skills and create innovative projects. I'm a dedicated learner, always seeking new challenges and opportunities to grow.
+🔹 Atualmente cursando **Análise e Desenvolvimento de Sistemas (ADS)**.<br>
+🔹 Apaixonado por transformar **ideias em código** e resolver problemas complexos.<br>
+🔹 Foco principal em **Java, Spring Boot** e ecosistema **Linux**.<br>
+🔹 Sempre buscando novos desafios e aprendizado contínuo.
 
-### 💡 Technologies I'm Focused On:
+---
 
-<br>
+### 🚀 Tech Stack
 
-<div align="left">
+<div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,git,spring,linux,angular"/>
+    <img src="https://skillicons.dev/icons?i=java,spring,python,hibernate&theme=dark" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css&theme=dark" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=linux,git,mysql,postgres,aws&theme=dark" />
   </a>
 </div>
 
-<br>
-
 ---
 
-## 🌐 Connect With Me
-
-* Feel free to follow and connect with me on social media to keep up with my work and updates!
-<br>📧 Email: gustavodinizz966@outlook.com 
-<br>📧 Email2: gustavodinizz966@gmail.com
-
----
-
-## 📊 My GitHub Stats
-
-* Here's a snapshot of my activity on GitHub.
-<br>
+### 📊 GitHub Stats
 
 <div align="center">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Gugzz21&layout=pie&theme=dark" media="(prefers-color-scheme: dark)" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gugzz21&layout=pie&theme=dark" />
-  </picture>
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gugzz21&show_icons=true&theme=dracula&hide_border=true" alt="Gustavo's Github Stats" height="180"/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gugzz21&theme=dracula&hide_border=true" alt="Gustavo's Streak" height="180"/>
+  </p>
 
-  <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Gugzz21&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Gugzz21&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Gugzz21&show_icons=true" />
-</picture>
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gugzz21&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" />
+  </p>
 </div>
 
----
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
