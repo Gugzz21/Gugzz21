@@ -30,12 +30,14 @@
 ### 🚀 Tech Stack
 
 <div align="center">
-  <p>
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,python,linux,git,mysql,postgres,aws&theme=dark" width="55" />
-  </p>
-  <p>
-    <img src="https://skillicons.dev/icons?i=angular,react,ts,js,html,css&theme=dark" width="55" />
-  </p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,python,linux,git,mysql,postgres,aws&theme=dark" />
+  </a>
+  <br/>
+  <br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,react,ts,js,html,css&theme=dark" />
+  </a>
 </div>
 
 ---
@@ -44,13 +46,13 @@
 
 <div align="center">
   <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gugzz21&show_icons=true&theme=dracula&hide_border=true" alt="Gustavo's Github Stats" height="180"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gugzz21&show_icons=true&theme=dracula&hide_border=true&locale=pt-br" alt="Gustavo's Github Stats" height="180"/>
     &nbsp;
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gugzz21&theme=dracula&hide_border=true" alt="Gustavo's Streak" height="180"/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gugzz21&theme=dracula&hide_border=true&locale=pt-br" alt="Gustavo's Streak" height="180"/>
   </p>
 
   <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gugzz21&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gugzz21&layout=compact&theme=dracula&hide_border=true&langs_count=8&locale=pt-br" alt="Top Languages" height="180"/>
   </p>
 </div>
 
