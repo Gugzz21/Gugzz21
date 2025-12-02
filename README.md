@@ -8,12 +8,15 @@
 
   <br/>
 
-  <a href="mailto:gustavodinizz966@outlook.com">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"/>
-  </a>
-  <a href="mailto:gustavodinizz966@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+  <p>
+    <a href="mailto:gustavodinizz966@outlook.com">
+      <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"/>
+    </a>
+    &nbsp;
+    <a href="mailto:gustavodinizz966@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
+  </p>
 
 </div>
 
@@ -45,14 +48,21 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gugzz21&show_icons=true&theme=dracula&hide_border=true" alt="Gustavo's Github Stats" height="180"/>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gugzz21&theme=dracula&hide_border=true" alt="Gustavo's Streak" height="180"/>
-  </p>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Gugzz21&show_icons=true&theme=dracula&hide_border=true&locale=pt-br" alt="Gustavo Stats" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gugzz21&theme=dracula&hide_border=true&locale=pt-br" alt="Gustavo Streak" />
+    </td>
+  </tr>
+</table>
 
-  <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gugzz21&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" />
-  </p>
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gugzz21&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" />
+
 </div>
 
 <br/>
