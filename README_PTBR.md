@@ -25,7 +25,8 @@ Atualmente no 5º período de **Análise e Desenvolvimento de Sistemas**, sou um
 ### 📈 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gugzz21&show_icons=true&theme=dracula&hide_border=true&locale=pt-br" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gugzz21&show_icons=true&theme=dracula&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gugzz21&theme=dracula&hide_border=true" height="170" />
 </div>
 
 ---
