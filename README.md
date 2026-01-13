@@ -47,8 +47,9 @@ Hello! I'm a **Full Stack Developer** currently finishing my last semester of **
 ### 📊 My GitHub Journey
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gugzz21&show_icons=true&theme=dracula&hide_border=true&locale=en" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gugzz21&layout=compact&theme=dracula&hide_border=true&langs_count=6" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gugzz21&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="Gustavo's Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gugzz21&layout=compact&theme=dracula&hide_border=true&langs_count=6" alt="Top Languages" />
 </div>
 
 ---
