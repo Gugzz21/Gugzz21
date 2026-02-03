@@ -61,6 +61,8 @@ Hello! I'm a **Full Stack Developer** currently finishing my last semester of **
     <img src="https://github-profile-trophy.vercel.app/?username=Gugzz21&theme=dracula&no-frame=true&column=7" alt="GitHub Trophies" />
   </a>
 </div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gugzz21)](https://github.com/Gugzz21/github-readme-stats)
 ---
 
 ### 🤝 Let's Connect!
