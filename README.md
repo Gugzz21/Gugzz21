@@ -45,7 +45,7 @@ Hello! I'm a **Full Stack Developer** currently finishing my last semester of **
 ---
 
 ### 📊 My GitHub Journey
-<img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=Gugzz21&show_icons=true&theme=dark&cache_seconds=1800"/>
+<img alt="my stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gugzz21&show_icons=true&theme=dark&cache_seconds=1800"/>
 
 <br> 
 
