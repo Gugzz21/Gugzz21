@@ -57,10 +57,6 @@ Hello! I'm a **Full Stack Developer** currently finishing my last semester of **
 
 <br>
 
-<div align="left">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Gugzz21&theme=dracula&hide_border=false" />
-</div>
-
 ---
 
 ### 🤝 Let's Connect!
