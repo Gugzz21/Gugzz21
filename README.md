@@ -48,7 +48,7 @@ Hello! I'm a **Full Stack Developer** currently finishing my last semester of **
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Gugzz21&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" alt="Gustavo's Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Gugzz21(https://github-readme-stats.vercel.app/api?username=Gugzz21)&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" alt="Gustavo's Stats"/>
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -62,7 +62,6 @@ Hello! I'm a **Full Stack Developer** currently finishing my last semester of **
   </a>
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gugzz21)](https://github.com/Gugzz21/github-readme-stats)
 ---
 
 ### 🤝 Let's Connect!
