@@ -65,7 +65,7 @@ I'm always open to discussing new projects, opportunities, or just chatting abou
   <a href="mailto:gustavodinizz966@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI">
+  <a href="https://www.linkedin.com/in/gustavo-diniz-30397b29a">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
