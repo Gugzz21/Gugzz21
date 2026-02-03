@@ -49,7 +49,7 @@ Hello! I'm a **Full Stack Developer** currently finishing my last semester of **
 
 <br> 
 
-<img alt="most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gugzz21&layout=donut&theme=dark&cache_seconds=1800"/>
+<img alt="most used languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gugzz21&layout=donut&theme=dark&cache_seconds=1800"/>
 
 
 ---
