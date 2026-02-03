@@ -45,11 +45,11 @@ Hello! I'm a **Full Stack Developer** currently finishing my last semester of **
 ---
 
 ### 📊 My GitHub Journey
-<img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=Gugzz21&show_icons=true"/>
+<img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=Gugzz21&show_icons=true&theme=dark&cache_seconds=1800"/>
 
 <br> 
 
-<img alt="most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gugzz21&layout=donut"/>
+<img alt="most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gugzz21&layout=donut&theme=dark&cache_seconds=1800"/>
 
 
 ---
