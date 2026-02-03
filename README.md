@@ -48,11 +48,11 @@ Hello! I'm a **Full Stack Developer** currently finishing my last semester of **
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Gugzz21&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" alt="Gustavo's Stats" height="180px" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Gugzz21&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" alt="Gustavo's Stats"/>
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gugzz21&layout=compact&theme=dracula&langs_count=8" alt="Most Used Languages" height="180px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gugzz21&layout=compact&theme=dracula&langs_count=8" alt="Most Used Languages"/>
   </a>
 </div>
 
