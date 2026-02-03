@@ -45,22 +45,7 @@ Hello! I'm a **Full Stack Developer** currently finishing my last semester of **
 ---
 
 ### 📊 My GitHub Journey
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Gugzz21(https://github-readme-stats.vercel.app/api?username=Gugzz21)&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" alt="Gustavo's Stats"/>
-  </a>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gugzz21&layout=compact&theme=dracula&langs_count=8" alt="Most Used Languages"/>
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Gugzz21&theme=dracula&no-frame=true&column=7" alt="GitHub Trophies" />
-  </a>
-</div>
+[![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gugzz21)](https://github.com/Gugzz21/github-readme-stats)
 
 ---
 
