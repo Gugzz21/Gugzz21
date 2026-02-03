@@ -46,12 +46,21 @@ Hello! I'm a **Full Stack Developer** currently finishing my last semester of **
 
 ### 📊 My GitHub Journey
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Gugzz21&show_icons=true&theme=dracula&rank_icon=github&count_private=true" alt="Gustavo's GitHub Stats" height="180px" />
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Gugzz21&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" alt="Gustavo's Stats" height="180px" />
+  </a>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gugzz21&layout=compact&theme=dracula&langs_count=8" alt="Most Used Languages" height="180px" />
+  </a>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gugzz21&layout=compact&theme=dracula&hide_border=false&langs_count=6" alt="Most Used Languages" height="180px" /> </div>
-
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gugzz21&theme=dracula" alt="GitHub Streak" height="180px" /> </div>
-
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Gugzz21&theme=dracula&no-frame=true&column=7" alt="GitHub Trophies" />
+  </a>
+</div>
 ---
 
 ### 🤝 Let's Connect!
