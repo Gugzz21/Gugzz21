@@ -46,6 +46,7 @@ Hello! I'm a **Full Stack Developer** currently finishing my last semester of **
 
 ### 📊 My GitHub Journey
 [![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gugzz21)](https://github.com/Gugzz21/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gugzz21&layout=donut)](https://github.com/Gugzz21/github-readme-stats)
 
 ---
 
