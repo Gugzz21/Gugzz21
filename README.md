@@ -1,11 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=200&section=header&text=Hi,%20I'm%20Gustavo%20Diniz!%20👋&fontSize=50&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=bd93f9&height=200&section=header&text=Hi,%20I'm%20Gustavo%20Diniz!%20👋&fontSize=50&animation=fadeIn&fontColor=f8f8f2" />
 </div>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=37B6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Java+%26+Spring+Boot+Specialist;Angular+%26+React+Native;Passionate+about+Clean+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=bd93f9&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Java+%26+Spring+Boot+Specialist;Angular+%26+React+Native;Passionate+about+Clean+Code" alt="Typing SVG" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gugzz21&color=bd93f9&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
 </p>
 
 ### 👨‍💻 About Me
@@ -45,12 +49,17 @@ Hello! I'm a **Full Stack Developer** currently finishing my last semester of **
 ---
 
 ### 📊 My GitHub Journey
-<img alt="my stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gugzz21&show_icons=true&theme=dark&cache_seconds=1800"/>
 
-<br> 
+<div align="left">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gugzz21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gugzz21&layout=donut&theme=dracula&hide_border=false" />
+</div>
 
-<img alt="most used languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gugzz21&layout=donut&theme=dark&cache_seconds=1800"/>
+<br>
 
+<div align="left">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Gugzz21&theme=dracula&hide_border=false" />
+</div>
 
 ---
 
