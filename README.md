@@ -28,7 +28,7 @@ Hello! I'm a **Full Stack Developer** currently finishing my last semester of **
 **Backend & Database**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postgres,aws&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postgres,aws,python&theme=dark" />
   </a>
 </p>
 
@@ -42,7 +42,7 @@ Hello! I'm a **Full Stack Developer** currently finishing my last semester of **
 **Tools & Environment**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,git,docker,vscode,idea&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=linux,git,docker,vscode&theme=dark" />
   </a>
 </p>
 
